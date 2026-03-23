@@ -9,7 +9,7 @@ Sistema financeiro completo 100% offline em um único arquivo HTML, desenvolvido
 Após ativar o GitHub Pages, o sistema estará disponível em:
 
 ```
-https://<seu-usuario>.github.io/<nome-do-repositorio>/FortesAC_Financeiro.html
+https://laurosamaral-lang.github.io/Fortes-Financeiro/
 ```
 
 Os dados são armazenados no **localStorage** do próprio navegador — nada é enviado para servidores.
